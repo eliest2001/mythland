@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: Unlicense
-pragma solidity ^0.8.2;
 
+//TODO: Cambiar funciones WrapTag, call, GetData
+pragma solidity ^0.8.2;
+import "hardhat/console.sol";
 contract mythlandMetadata {
 
     mapping(uint8 => address) heads;
@@ -14,8 +16,9 @@ contract mythlandMetadata {
 
     enum Traits{ head, body, armour, mainhand, offhand }
 
-    string svgheader = "";
-    string svgfooter = "";
+    string svgheader = '<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" id="Orc" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512"  xml:space="preserve">';
+    string svgfooter = "</svg>";
+
     function setOneHandArmours(uint8 number, address add) public {
         onehandarmours[number] = add;
     }
@@ -46,25 +49,24 @@ contract mythlandMetadata {
         offhands[number] = add;
     }
 
-
-    function getSVG(uint8 head_, uint8 body_, uint8 armour_, uint8 twohand_, uint8 onehand_, uint8 offhand_) public view returns(string memory) {
+    function getSVG(uint8 body_, uint8 head_, uint8 armour_, uint8 twohand_, uint8 onehand_, uint8 offhand_) public view returns(string memory) {
 
         if(twohand_ == 0){
             return string(abi.encodePacked(
                 svgheader,
+                getTrait(Traits.body, body_, false),
                 getTrait(Traits.head, head_, false),
-                getTrait(Traits.body, body_, false), 
-                getTrait(Traits.armour, armour_, false),
                 getTrait(Traits.mainhand, onehand_, false),
+                getTrait(Traits.armour, armour_, false),
                 getTrait(Traits.offhand, offhand_, false),
                 svgfooter ));
         }else{
             return string(abi.encodePacked(
                 svgheader,
-                getTrait(Traits.head, head_, true),
-                getTrait(Traits.body, body_, true), 
-                getTrait(Traits.armour, armour_, true),
+                getTrait(Traits.body, body_, true),
+                getTrait(Traits.head, head_, true), 
                 getTrait(Traits.mainhand, twohand_, true),
+                getTrait(Traits.armour, armour_, true),
                 svgfooter ));
         }
 
@@ -94,7 +96,7 @@ contract mythlandMetadata {
     }
 
     function wrapTag(string memory uri) internal pure returns (string memory) {
-        return string(abi.encodePacked('<image x="0" y="0" width="60" height="60" image-rendering="pixelated" preserveAspectRatio="xMidYMid" xlink:href="data:image/png;base64,', uri, '"/>'));
+        return string(abi.encodePacked('<image x="0" y="0" width="512" height="512" image-rendering="pixelated" preserveAspectRatio="xMidYMid" xlink:href="data:image/png;base64,', uri, '"/>'));
     }
 
     function call(address source, bytes memory sig) internal view returns (string memory svg) {
@@ -105,9 +107,9 @@ contract mythlandMetadata {
 
    function getData(Traits trait, uint8 id) internal pure returns (bytes memory) {
         string memory s = string(abi.encodePacked(
-            trait  == Traits.body     ? "body"     :
-            trait == Traits.head   ? "head"    :
-            trait == Traits.armour   ? "armour"    :
+            trait  == Traits.body    ? "body"     :
+            trait == Traits.head     ? "head"     :
+            trait == Traits.armour   ? "armour"   :
             trait == Traits.mainhand ? "mainhand" : "offhand",
             toString(id),
             "()"
@@ -138,6 +140,7 @@ contract mythlandMetadata {
         return string(buffer);
     }
     
+
 
     
     

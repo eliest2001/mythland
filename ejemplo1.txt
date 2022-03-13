@@ -1,0 +1,62 @@
+{
+  "name": "Poof",
+  "description": "EtherOrcs is a collection of 5050 Orcs ready to pillage the blockchain. With no IPFS or API, these Orcs are the very first role-playing game that takes place 100% on-chain. Spawn new Orcs, battle your Orc to level up, and pillage different loot pools to get new weapons and gear which upgrades your Orc metadata. This Horde of Orcs will stand the test of time and live on the blockchain for eternity.",
+  "image": "data:image/svg+xml;base64,PHN2ZyBpZD0ib3JjIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGltYWdlIHg9IjEiIHk9IjEiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgaW1hZ2UtcmVuZGVyaW5nPSJwaXhlbGF0ZWQiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB4bGluazpocmVmPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUR3QUFBQThCQU1BQUFESTBzUkJBQUFBSjFCTVZFVUFBQUFNREEwSEJSRnViWlNSbTdHWUZVdTUxTzdPMXR6UnRwaldKeWZ2WTA3NzhOci8vLy9GQXgvMUFBQUFBblJTVGxNQUFIYVR6VGdBQUFKclNVUkJWSGhlN2RSTmp0TXdGQWZ3Z1JOTWZJS21jVlVoc2NwekZkWitUMWhJWFExRXFBZUFBelNXSGtqWnoySzJkQkZ1TUwzQUxHQ0paQ0Y4S0o0elNkT1BtVDBML3RsVSt2bjUzeS83NmgvTi8yUjk1cEk4RzNMQmFyUHJ1cHRuZWJIL3Z1OTIrUm0vU05RUDMrLzNNdjRjZDkzK2Z1THMrcFFYMzk3ZE83OTVrdFY4L3NxeGE2T3Y1ZTFmTXJIbUdHUGdqekZ1TC9pNk1BMjBzUUdPYUdhWHJPSHRwNHBYbjBNRGRpNDVZYW5HOVcvbXJ6R0FLWXlMWVg3RVNoUG9uN0dWNTRHc0lZN1I1eE1YN0JGK1JNbWZCMXM0THh6c2daVmhRcmk3WmVhN1czVHN1WTNCenlZbTRUZXRUSDloWkNiSGtvbUJDTUFFbVluc2lVRGNjVGx5UVQzM1g0c1RScE1LN01nNjdRM2doTDBUUXVOUDJWREZTTXllVUJiNWtvOVlHU0NxWXNEVUlSb1NzOFBad0RKTXBoV0hwTXhZT21haWtWRVluTGpuR0ZncVNzMyt3QVVBV2MyU1JpeHhyb2lPR1hLVkFGMnZtT3MyalB6U0lKU1pFaUV3dmR0c0dXUEFnY2w1bTJWTHhyUzVrOVl5ZXkxc3IwWm15ak9Gd0o0WmdERHZ1UnlabU9Ud0ZNWjU2VjNWZGE1YTRkbklFbWRWM2ZXcDY1dFVIWGxrNHdpcmJiSGFKTjNWNzNFZUpZZmZXenR1akRXd3FpVWZtb3JYd2NXd3ZUNWlLQWx3SjF4NTRWL3JvejlUUWV5eElJUFN1M0VzVCtKOFpPV0lyRzRJdTAzZHVkYXpyOXJvajVpYmN1bUZ1N3BidG9IOWtubWJIZGl3dDQrODJXbGgxdXN3Y2JwVGNzMVVidVIwS3hlWnF6YllpVk0wWWI1SVY0ZG1KaXZyVDdrZ0tGVTYrd3FJckF5Y01VQ1pMWEpoOHhTcnhHcW9LUzh2ajhURFBzYm5aNnpSSU9ROWEyKzRQR1Zsa0FaV1R0aWVNVTNNSG5oN3prQXdNb0liZUl5YXAvVDgrSExndjI4V1B4bEl6QkFiQUFBQUFFbEZUa1N1UW1DQyIvPjxpbWFnZSB4PSIxIiB5PSIxIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGltYWdlLXJlbmRlcmluZz0icGl4ZWxhdGVkIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgeGxpbms6aHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFEd0FBQUE4QkFNQUFBREkwc1JCQUFBQUhsQk1WRVVBQUFBQVAzVUI2djhXRkNVN09tWk5aYlJObSthUDAvL0Q2L3psOS8rbk5wdnJBQUFBQVhSU1RsTUFRT2JZWmdBQUFMVkpSRUZVZUY3dHpMRU9nakFVaGVHYlhKOEFvN0FTSjdjYWNvdGpYNkVoMHRsZzJ1NUVZRFVsa2NjV0I3ZGJWeDM2cjEvT2dYOEp2L05aUlduellSVmR5aGtBYnp5dlZFOEtwR2ZuTkNsMHl3eXk0SG5vVVBzWmRSazR4bHhRbGlzMEJjOWxRRDBHSEsxZ2VSL0lqSUdHSHRpa3Iyb1h5UEdNRjlzTXZwSmpBTFpUYTY1TGI2WkM4UE9kemZLN2V4eUE1MVlmUzJ1ZTJ3ZzNsT1VkbVQ3Q0FyVVZTREVHb09aOUFyRlFyQ0RndDZWU3FkUUxlWEVtNnhXdmY1MEFBQUFBU1VWT1JLNUNZSUk9Ii8+PGltYWdlIHg9IjEiIHk9IjEiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgaW1hZ2UtcmVuZGVyaW5nPSJwaXhlbGF0ZWQiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB4bGluazpocmVmPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUR3QUFBQThDQU1BQUFBTklpbEFBQUFBTTFCTVZFVUFBQUE1eHVNQkFRRUNBZ0pOWmJURDYveVAwLzhXRkNXSWlJaEVSa2N2THkvLy8vOENab3RObStaKzd2OUd2ZjBDREQ2QmxqVDJBQUFBQTNSU1RsTUFDZDNUMXRIK0FBQUEzRWxFUVZSNFh1M1RTVzdFTUF3RlVjZWZwQ2IzY1AvVGhreHlnWlN5NkFCZDhQWkJNQ2tkZjllN2R5M0QxQzBnYnI1cE4vQ090YmhoSEhzVzQ3UVV0MGdjUVhIdHlSdWZ0V09jYmVFSWpnUGpvaHVyc3B0VDdPRk9iMG56THhzVWw2VTR5dkp4Vi9Dbnc4cEM3SllVWTAvcTNvaitLSTNmUmtzYmdiSEZENVlRTnBrOXRhWk9nSldaVlBqWDJyVHVVaDhFdStsK2FZMHh3Y2h1Sm1rTVRRRnNwcDZVV09tWmRoQjdhaTMxbFZRSHdiMS9IOHZ3cUdNWnJvNy9uVENjeW8vaVdyYXc3bjF3UE9lOEhsQnJqR3RSZkp4NlhFc0g3U1V1MnlmSmJRb1hqVVdJcUFBQUFBQkpSVTVFcmtKZ2dnPT0iLz48aW1hZ2UgeD0iMSIgeT0iMSIgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiBpbWFnZS1yZW5kZXJpbmc9InBpeGVsYXRlZCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIHhsaW5rOmhyZWY9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBRHdBQUFBOENBTUFBQUFOSWlsQUFBQUFWRkJNVkVVQUFBQWdGQlFIQlJHaUpDSllFeEdoT3JIY0p5SHpURkJyR25qWForRkRGRXJoYit1Q0hSdi9ucHYvcmUzL3lNaTRQTHZ6VWsyV0xiQk1EVng5SFl6M21mK2JHSjIvTUN5VUtwWTJFRDNPVGREL3pQUU5KY3pyQUFBQUFYUlNUbE1BUU9iWVpnQUFBTTlKUkVGVWVGN3QwVWR5eERBTVJGRTJ3S0NzeVU3M3Y2YzU4ZzAreWpzMXcrNVZvOGowZnpsejVzeFBCRy9oK2cxRGpMZEE2M3hzNnVmall2ajdiODBJWDQ1ellmYjF1TjArRTh2clVjWXkzQm0rbC9FNUZvaW5vVHh4czdvZUptWnQxelJOWDJLNDdSMXFGOEoxVlZLanVFbHFLNXpiTTdiSnNtbzdMQnpjUlp2ZFhkbkY4QnNxcjFSTHRlMFF2eTBzN3JxNUI2eVVSYTBsTGNJMkpWWnQxUTRnRWJ0WW9qRnE0empITWRlaDdzN3hBR2FMRzY4M3E5ZXVPYjhHY0xZUHFtMEpQSmwzU0cyTi9EU3pQTDk4NmdYZ2NVYWtTd0FBQUFCSlJVNUVya0pnZ2c9PSIvPjxzdHlsZT4jb3Jje3NoYXBlLXJlbmRlcmluZzogY3Jpc3BlZGdlczsgaW1hZ2UtcmVuZGVyaW5nOiAtd2Via2l0LWNyaXNwLWVkZ2VzOyBpbWFnZS1yZW5kZXJpbmc6IC1tb3otY3Jpc3AtZWRnZXM7IGltYWdlLXJlbmRlcmluZzogY3Jpc3AtZWRnZXM7IGltYWdlLXJlbmRlcmluZzogcGl4ZWxhdGVkOyAtbXMtaW50ZXJwb2xhdGlvbi1tb2RlOiBuZWFyZXN0LW5laWdoYm9yO308L3N0eWxlPjwvc3ZnPg==",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Albino Orc 2"
+    },
+    {
+      "trait_type": "Helm",
+      "value": "Ice Crown +8"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "HelmTier",
+      "value": 8
+    },
+    {
+      "trait_type": "Mainhand",
+      "value": "Ice Sword +7"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "MainhandTier",
+      "value": 7
+    },
+    {
+      "trait_type": "Offhand",
+      "value": "Helix Scepter +9"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "OffhandTier",
+      "value": 9
+    },
+    {
+      "display_type": "number",
+      "trait_type": "DaysAsTopChampion",
+      "value": "0"
+    },
+    {
+      "trait_type": "level",
+      "value": 45
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "zug bonus",
+      "value": 24
+    }
+  ]
+}-----------------------------------------------------------------------------
+
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="orc" width="100%" height="100%" version="1.1" viewBox="0 0 60 60">
+  <image x="1" y="1" width="60" height="60" image-rendering="pixelated" preserveAspectRatio="xMidYMid" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8BAMAAADI0sRBAAAAJ1BMVEUAAAAMDA0HBRFubZSRm7GYFUu51O7O1tzRtpjWJyfvY0778Nr////FAx/1AAAAAnRSTlMAAHaTzTgAAAJrSURBVHhe7dRNjtMwFAfwgRNMfIKmcVUhscpzFdZ+T1hIXQ1EqAeAAzSWHkjZz2K2dBFuML3ALGCJZCF8KJ4zSdOPmT0L/tlU+vn53y/76h/N/2R95pI8G3LBarPruptnebH/vu92+Rm/SNQP3+/3Mv4cd93+fuLs+pQX397dO795ktV8/sqxa6Ov5e1fMrHmGGPgjzFuL/i6MA20sQGOaGaXrOHtp4pXn0MDdi45YanG9W/mrzGAKYyLYX7EShPon7GV54GsIY7R5xMX7BF+RMmfB1s4LxzsgZVhQri7Zea7W3TsuY3BzyYm4TetTH9hZCbHkomBCMAEmYnsiUDccTlyQT33X4sTRpMK7Mg67Q3ghL0TQuNP2VDFSMyeUBb5ko9YGSCqYsDUIRoSs8PZwDJMphWHpMxYOmaikVEYnLjnGFgqSs3+wAUAWc2SRixxroiOGXKVAF2vmOs2jPzSIJSZEiEwvdtsGWPAgcl5m2VLxrS5k9Yyey1sr0ZmyjOFwJ4ZgDDvuRyZmOTwFMZ56V3Vda5a4dnIEmdV3fWp65tUHXlk4wirbbHaJN3V73EeJYffWztujDWwqiUfmorXwcWwvT5iKAlwJ1x54V/roz9TQeyxIIPSu3EsT+J8ZOWIrG4Iu03dudazr9roj5ibcumFu7pbtoH9knmbHdiwt4+82Wlh1uswcbpTcs1UbuR0KxeZqzbYiVM0Yb5IV4dmJivrT7kgKFU6+wqIrAycMUCZLXJh8xSrxGqoKS8vj8TDPsbnZ6zRIOQ9a2+4PGVlkAZWTtieMU3MHnh7zkAwMoIbeIyap/T8+HLgv28WPxlIzBAbAAAAAElFTkSuQmCC"/>
+  <image x="1" y="1" width="60" height="60" image-rendering="pixelated" preserveAspectRatio="xMidYMid" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8BAMAAADI0sRBAAAAHlBMVEUAAAAAP3UB6v8WFCU7OmZNZbRNm+aP0//D6/zl9/+nNpvrAAAAAXRSTlMAQObYZgAAALVJREFUeF7tzLEOgjAUheGbXJ8Ao7ASJ7cacotjX6Eh0tlg2u5EYDUlkccWB7dbVx36r1/OgX8Jv/NZRWnzYRVdyhkAbzyvVE8KpGfnNCl0ywyy4HnoUPsZdRk4xlxQlis0Bc9lQD0GHK1geR/IjIGGHtikr2oXyPGMF9sMvpJjALZTa65Lb6ZC8POdzfK7exyA51YfS2ue2wg3lOUdmT7CArUVSDEGoOZ9ArFQrCDgt6VSqdQLeXEm6xWvf50AAAAASUVORK5CYII="/>
+  <image x="1" y="1" width="60" height="60" image-rendering="pixelated" preserveAspectRatio="xMidYMid" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAM1BMVEUAAAA5xuMBAQECAgJNZbTD6/yP0/8WFCWIiIhERkcvLy////8CZotNm+Z+7v9Gvf0CDD6BljT2AAAAA3RSTlMACd3T1tH+AAAA3ElEQVR4Xu3TSW7EMAwFUcefpCb3cP/ThkxygZSy6ABd8PZBMCkdf9e7dy3D1C0gbr5pN/COtbhhHHsW47QUt0gcQXHtyRuftWOcbeEIjgPjohursptT7OFOb0nzLxsUl6U4yvJxV/Cnw8pC7JYUY0/q3oj+KI3fRksbgbHFD5YQNpk9taZOgJWZVPjX2rTuUh8Eu+l+aY0xwchuJmkMTQFspp6UWOmZdhB7ai31lVQHwb1/H8vwqGMZro7/nTCcyo/iWraw7n1wPOe8HlBrjGtRfJx6XEsH7SUu2yfJbQoXjUWIqAAAAABJRU5ErkJggg=="/>
+  <image x="1" y="1" width="60" height="60" image-rendering="pixelated" preserveAspectRatio="xMidYMid" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAVFBMVEUAAAAgFBQHBRGiJCJYExGhOrHcJyHzTFBrGnjXZ+FDFErhb+uCHRv/npv/re3/yMi4PLvzUk2WLbBMDVx9HYz3mf+bGJ2/MCyUKpY2ED3OTdD/zPQNJczrAAAAAXRSTlMAQObYZgAAAM9JREFUeF7t0UdyxDAMRFE2wKCsyU73v6c58g0+yjs1w+5Vo8j0fzlz5sxPBG/h+g1DjLdA63xs6ufjYvj7b80IX45zYfb1uN0+E8vrUcYy3Bm+l/E5FoinoTxxs7oeJmZt1zRNX2K47R1qF8J1VVKjuElqK5zbM7bJsmo7LBzcRZvdXdnF8Bsqr1RLte0Qvy0s7rq5B6yURa0lLcI2JVZt1Q4gEbtYojFq4zjHMdeh7s7xAGaLG683q9euOb8GcLYPqm0JPJl3SG2N/DSzPL986gXgcUakSwAAAABJRU5ErkJggg=="/>
+  <style>#orc{shape-rendering: crispedges; image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated; -ms-interpolation-mode: nearest-neighbor;}</style>
+</svg>
+
